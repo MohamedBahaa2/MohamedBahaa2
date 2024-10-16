@@ -19,9 +19,8 @@
 ### 🚀 My GitHub Stats:
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedBahaa2&show_icons=true&theme=radical)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBahaa2&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedBahaa2&theme=radical)](https://git.io/streak-stats)
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBahaa2&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
