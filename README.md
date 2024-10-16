@@ -22,6 +22,10 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBahaa2&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedBahaa2&theme=radical)](https://git.io/streak-stats)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MohamedBahaa2&theme=redical)
+
 ---
 
 ### 🌱 Currently Learning
