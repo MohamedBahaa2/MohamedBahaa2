@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Mohamed Bahaa Elshal! 👋
+  
+🎓 **Currently studying at the Arab Academy for Science, Technology, and Maritime Transport**   
+🚗 **Currently working on**: V2V project (Vehicle-to-Vehicle communication)  
+🤖 **Interests**: AI, Machine Learning, Deep Learning, Embedded Systems
 
-<!--
-**MohamedBahaa2/MohamedBahaa2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔧 Languages & Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-FF8C00?style=flat-square&logo=mathworks&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/-Embedded_Systems-blue?style=flat-square)
+
+---
+
+### 🚀 My GitHub Stats:
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedBahaa2&show_icons=true&theme=radical)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBahaa2&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🌱 Currently Learning
+
+- AI & Machine Learning
+- Deep Learning  
+- Embedded Systems
+
+---
+
+### 🤝 Let’s Connect!
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed.bahaa682004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/mohamed-bahaa-elshal-486b20111/))
