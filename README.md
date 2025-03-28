@@ -1,8 +1,7 @@
 # Hi there, I'm Mohamed Bahaa Elshal! 👋
   
 🎓 **Currently studying at the Arab Academy for Science, Technology, and Maritime Transport**   
-🚗 **Currently working on**: V2V project (Vehicle-to-Vehicle communication)  
-🤖 **Interests**: AI, Machine Learning, Deep Learning, Embedded Systems
+🤖 **Interests**: AI, Machine Learning, Data Science, Deep Learning, Embedded Systems
 
 ---
 
@@ -27,6 +26,7 @@
 ### 🌱 Currently Learning
 
 - AI & Machine Learning
+- Data Science
 - Deep Learning  
 - Embedded Systems
 
