@@ -1,7 +1,7 @@
 # Hi there, I'm Mohamed Bahaa Elshal! 👋
   
 🎓 **Currently studying at the Arab Academy for Science, Technology, and Maritime Transport**   
-🤖 **Interests**: AI, Machine Learning, Data Science, Deep Learning, Embedded Systems
+🤖 **Interests**: AI, Machine Learning, Data Science, Deep Learning, Embedded Systems, Robotics
 
 ---
 
@@ -10,6 +10,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-FF8C00?style=flat-square&logo=mathworks&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Embedded Systems](https://img.shields.io/badge/-Embedded_Systems-blue?style=flat-square)
 
@@ -28,6 +29,7 @@
 - Data Science
 - Deep Learning  
 - Embedded Systems
+- Robotics
 
 ---
 
