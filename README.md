@@ -12,7 +12,7 @@
 ![MATLAB](https://img.shields.io/badge/-MATLAB-FF8C00?style=flat-square&logo=mathworks&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/-Embedded_Systems-blue?style=flat-square)
+
 
 ---
 
